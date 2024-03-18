@@ -3,7 +3,7 @@
 ### java
 the Java executable
 runs Bytecode `.class` files. 
-Bytecode is universal, cross-platform
+Bytecode is universal and cross-platform.
 
 ### javac
 The Java compiler, part of the JDK or SDK. Compiles souce code `.java` files into Bytecode `.class` files.
