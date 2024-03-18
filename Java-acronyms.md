@@ -1,7 +1,7 @@
 ## Java acronyms
 
 ### java
-the Java executable
+The Java executable
 runs Bytecode `.class` files. 
 Bytecode is universal and cross-platform.
 
