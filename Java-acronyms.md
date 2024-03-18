@@ -2,7 +2,7 @@
 
 ### java
 the Java executable
-runs Bytecode .class files
+runs Bytecode `.class` files
 Bytecode is universal, cross-platform
 
 ### javac
@@ -16,7 +16,7 @@ or, interchangeably,
 ### SDK
 Standard Development Kit
 
-compiles .java files into .class files
+compiles .java files into `.class` files
 
 ### JRE
 The Java runtime executable, java
