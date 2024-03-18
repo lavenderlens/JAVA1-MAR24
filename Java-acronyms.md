@@ -14,19 +14,19 @@ Java Development Kit
 or, interchangeably,
 
 ### SDK
-Standard Development Kit
+Standard Development Kit 
 
-compiles .java files into `.class` files
+Compiles .java files into `.class` files.
 
 ### JRE
-The Java runtime executable, java
+The Java runtime executable, `java`
 is part of the JRE, or Java Runtime Environment. 
 The JRE is platform-specific (Mac, Windows, Linux etc), 
 runs class files by creating a JVM.
 
 ### JVM
-Java Virtual Machine
-every running script has its own JVM
+Java Virtual Machine - 
+every running script has its own JVM.
 
 ### JIT
 The JVM uses JIT (Just In Time) interpretation 
