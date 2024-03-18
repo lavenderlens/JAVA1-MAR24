@@ -6,7 +6,7 @@ runs Bytecode `.class` files
 Bytecode is universal, cross-platform
 
 ### javac
-The Java compiler, part of the JDK or SDK
+The Java compiler, part of the JDK or SDK. Compiles souce code `.java` files into Bytecode `.class` files.
 
 ### JDK
 Java Development Kit
