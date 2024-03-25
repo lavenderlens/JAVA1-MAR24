@@ -1,4 +1,7 @@
 package pojos;
+
+import java.util.Objects;
+
 public class Book {
     /**
      * 3 basic steps toward encapsulation
@@ -7,7 +10,7 @@ public class Book {
      * akin to drawing a capsule around your data
      * 1. private fields
      * 2. public methods (constructor, getters and setters)
-     * TODO THURSDAY
+     * TODO
      * 3. Object class overrides (hashCode(), equals(), and toString())
      */
 
@@ -65,6 +68,26 @@ public class Book {
 
     }
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Book)) return false;
+        Book book = (Book) o;
+        return title.equals(book.title) && Objects.equals(authors, book.authors);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(title, authors);
+    }
+
+    @Override
+    public String toString() {
+        return "Book{" +
+                "title='" + title + '\'' +
+                ", authors='" + authors + '\'' +
+                '}';
+    }
 }
 
 
