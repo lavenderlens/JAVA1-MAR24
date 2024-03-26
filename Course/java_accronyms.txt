@@ -1,0 +1,9 @@
+javac is the java compiler part of the JDK or SDK Java development Kit or standard development kit
+compiles java files into class files
+
+Java runtime executable (java) runs class files by creating a jvm which is a java virtual machine.
+Every run and process has its own jvm and a jvm uses jit (just in time) - to run just the amount of code that is needed ahead of time
+
+is part of the JRE java runtime environment 
+
+mvnrepository
