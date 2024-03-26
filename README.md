@@ -10,4 +10,4 @@ Access to THIS code repo will remain up indefinitely.
 
 Any questions, contact me alanl@stayahead.com.
 
-Status: `incomplete as of Tuesday 26 March`.
+Status: `COMPLETE` as of Tuesday 26 March.
