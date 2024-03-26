@@ -1,0 +1,22 @@
+
+
+System: Liverpool Uni Building management card access system
+Students and staff have a card for card access to specific buildings.
+Not all students could enter all buildings.
+Not all staff could enter all buildings.
+Special access required to veterinary, labs etc.
+Cards are issued at start of year, students allocated a student number, staff a staff number.
+Cards may be replaced if lost by student or joined any time of year by staff.
+A card has a number, photo, barcode. (COMPOSITIONAL ASSOC.)
+
+NOUNS
+Student (singular)
+Staff
+Building
+Card
+
+VERBS
+issue/replace
+create/join
+enter
+
